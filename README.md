@@ -4,10 +4,10 @@
 
 Este é um projeto Java para gerenciamento de usuários e comentários utilizando o banco de dados H2. Ele permite:
 
-Adicionar, listar, atualizar e excluir usuários.
+- Adicionar, listar, atualizar e excluir usuários.
 
-Autenticar usuários.
+- Autenticar usuários.
 
-Adicionar e listar comentários associados a usuários.
+- Adicionar e listar comentários associados a usuários.
 
-Manutenção de tabelas criadas automaticamente ao iniciar o sistema.
+- Manutenção de tabelas criadas automaticamente ao iniciar o sistema.
